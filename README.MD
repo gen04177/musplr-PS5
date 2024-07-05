@@ -16,5 +16,13 @@ This is a simple music player compatible with MP3, WAV and OGG formats, develope
 4. Execute `telnet [PS5-IP] 2323`.
 5. Run the command `hbldr /data/musplr.elf --help`
 
+## Known limitations:
+
+- Audio files must be less than 10MB.
+- File names must be less than 64 characters long.
+- List of supported characters for file names: abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789&()'´’-_. AÁÀÃÂaáàãâEÉÊeéêIÍÎiíîOÓÔÕoóôõUÚÛuúûÇç
+
+This app was tested with a list containing 500 audio files and no problems were detected.
+
 ## Credits
 Credits to J. Tornblom for the SDK, SDL2 port for PS5, and required payloads.
