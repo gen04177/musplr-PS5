@@ -1,6 +1,6 @@
 # musplr
 
-This is a simple music player compatible with MP3, WAV and OGG formats, developed in C using SDL2, designed to be played on a PS5 Jailbreak (3.xx-4.xx).
+This is a simple music player compatible with MP3 and OGG formats, developed in C using SDL2, designed to be played on a PS5 Jailbreak (3.xx-4.xx).
 
 ## Prerequisites
 - elfldr.elf
@@ -18,7 +18,7 @@ This is a simple music player compatible with MP3, WAV and OGG formats, develope
 
 ## Known limitations:
 
-- Audio files must be less than 10MB.
+- Audio files must be less than 50MB.
 - File names must be less than 64 characters long.
 - List of supported characters for file names: abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789&()'´’-_. ÁÀÃÂáàãâÉÊéêÍÎíîÓÔÕóôõÚÛúûÇç
 
