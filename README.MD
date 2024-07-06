@@ -20,7 +20,7 @@ This is a simple music player compatible with MP3, WAV and OGG formats, develope
 
 - Audio files must be less than 10MB.
 - File names must be less than 64 characters long.
-- List of supported characters for file names: abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789&()'´’-_. AÁÀÃÂaáàãâEÉÊeéêIÍÎiíîOÓÔÕoóôõUÚÛuúûÇç
+- List of supported characters for file names: abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789&()'´’-_. ÁÀÃÂáàãâÉÊéêÍÎíîÓÔÕóôõÚÛúûÇç
 
 This app was tested with a list containing 500 audio files and no problems were detected.
 
