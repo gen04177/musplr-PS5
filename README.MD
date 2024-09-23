@@ -8,7 +8,7 @@ This is a simple music player compatible with MP3 and OGG formats, developed in 
 - ftpsrv.elf
 
 ## How to Use
-1. Send the elfldr.elf payload do port 9020.
+1. Send the elfldr.elf payload to port 9020.
 1. Send the shsrv.elf payload to port 9021.
 2. Send the ftpsrv.elf payload to port 9021.
 3. Copy the musplr.elf payload to `/data` directory on your PS5.
