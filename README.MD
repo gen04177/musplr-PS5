@@ -9,12 +9,11 @@ This is a simple music player compatible with MP3 and OGG formats, developed in 
 
 ## How to Use
 1. Send the elfldr.elf payload to port 9020.
-1. Send the shsrv.elf payload to port 9021.
-2. Send the ftpsrv.elf payload to port 9021.
-3. Copy the musplr.elf payload to `/data` directory on your PS5.
-4. Copy the arial.ttf font to `/data` directory on your PS5.
-4. Execute `telnet [PS5-IP] 2323`.
-5. Run the command `hbldr /data/musplr.elf --help`
+2. Send the shsrv.elf payload to port 9021.
+3. Send the ftpsrv.elf payload to port 9021.
+4. Copy the musplr.elf payload to `/data` directory on your PS5.
+5. Execute `telnet [PS5-IP] 2323`.
+6. Run the command `hbldr /data/musplr.elf --help`
 
 ## Known limitations:
 
