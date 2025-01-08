@@ -1,6 +1,6 @@
 # musplr
 
-This is a simple music player compatible with MP3 and OGG formats, developed in C using SDL2, designed to be played on a jailbroken PS5 (1.xx-4.xx).
+This is a simple music player compatible with MP3 and OGG formats, developed in C using SDL2, designed to be played on a jailbroken PS5 (1.xx-5.xx).
 
 ## Prerequisites
 - elfldr.elf
@@ -24,4 +24,4 @@ This is a simple music player compatible with MP3 and OGG formats, developed in 
 This app was tested with a list containing 500 audio files and no problems were detected.
 
 ## Credits
-- J. Tornblom - SDK and required payloads.
+- ps5-payload-sdk
