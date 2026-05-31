@@ -4,6 +4,7 @@ This is a simple music player compatible with MP3 and OGG formats.
 
 ## How to Use
 
+```plaintext
 musplr [-m <music-file> | -d <music-dir>]
 
 -m <music-file>   Path to a music file to play
@@ -11,6 +12,7 @@ musplr [-m <music-file> | -d <music-dir>]
 -d <music-dir>    Path to a directory of music files to play
 
 --help            Display this help message
+```
 
 ## Known limitations:
 
