@@ -24,3 +24,10 @@ This app was tested with a list containing 500 audio files and no problems were 
 
 ## Credits
 - ps5-payload-sdk
+
+
+
+<div align="center">
+
+<img width="400" src="./musplr.png">
+<br>
